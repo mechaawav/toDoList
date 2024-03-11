@@ -1,0 +1,14 @@
+{
+    "name": "mecha/to-do-list-with-twig",
+    "description": "toDoList",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mechaawav"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}
